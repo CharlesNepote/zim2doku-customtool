@@ -3,7 +3,9 @@
 # Export a page in clipboard, DokuWiki formated, for Zim Wiki (at least 0.66)
 # by Charles Nepote <charles@nepote.org> -- BSD Licence
 #
-# To be added in Zim with: Tools -> Custom tools -> Command -> /path/to/this/script/zim2doku.sh %f
+# To be added in Zim with: Tools -> Custom tools -> [+]
+#   -> Name: zim2doku
+#   -> Command: /path/to/this/script/zim2doku.sh %f
 #
 #   From Zim documentation ("Custom tools" page):
 #   When defining a command, you can use the following parameters to supply the external program with some context information from within zim:
